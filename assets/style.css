@@ -10,7 +10,6 @@ body {
     0% { background-position: 0 0; }
     100% { background-position: 200px 200px; }
 }
-}
 header {
     background: #1a202c;
     color: #fff;
@@ -102,5 +101,4 @@ footer {
     padding: 15px 0;
     font-size: 0.95rem;
     margin-top: 40px;
-}
 }
